@@ -254,3 +254,4 @@ __Everyday Types__
   * Less Common Primitives
     - bigint
     - symbol
+    
