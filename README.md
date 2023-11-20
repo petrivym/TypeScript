@@ -1,5 +1,4 @@
 # TypeScript short about Type
-----------
 __Everyday Types__
   * String
   * Number
