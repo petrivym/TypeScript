@@ -1,4 +1,4 @@
-# TypeScript short about Type`  ` 
+# TypeScript short about Type
 ----------
 __Everyday Types__
   * String
